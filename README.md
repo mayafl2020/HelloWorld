@@ -6,3 +6,5 @@ I really love working in tech.Specifically, I love being in a position where i c
 
 # My Hobbies
 One of my favorite thigns to do is go to Legoland - even if i didn't go on any rides,just walking around the park. and feeling the magic is enough for me :smile:
+
+![headshot](IMG_7653.jpg)

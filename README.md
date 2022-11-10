@@ -1,3 +1,5 @@
+![headshot](IMG_7653.jpg)
+
 # A little insight into Maya Farberov
 Hi Everyone!My name is Maya Farberov and i'm a QA Automation Testing Engineer.This README will give you a bit of information about me!
 
@@ -7,4 +9,4 @@ I really love working in tech.Specifically, I love being in a position where i c
 # My Hobbies
 One of my favorite thigns to do is go to Legoland - even if i didn't go on any rides,just walking around the park. and feeling the magic is enough for me :smile:
 
-![headshot](IMG_7653.jpg)
+
